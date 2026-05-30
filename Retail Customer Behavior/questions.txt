@@ -1,0 +1,12 @@
+Here are some business questions which will be answered via SQL :-
+
+Q1 : What is the total revenue gerenated by male vs female customers?
+Q2 : Which customers used a discount but still spent more than average purchase amount?
+Q3 : Which are the top 5 products with the highest average review rating?
+Q4 : Compare the average purchase amounts b/w standard and express shipping?
+Q5 : Do subscribe customers spend more? Compare average spend and total revenue b/w subscribers and non-subscribers.
+Q6 : Which 5 products have the highest percentage of purchases with discounts applied?
+Q7 : Segment customers into new, returning, and loyal based on their total number of previous puchases, and show the count of each segment.
+Q8 : What are the top 3 most purchased products within each category?
+Q9 : Are customers who are repeat buyers (more than 5 previous purchases) also likely to subscribe?
+Q10: What is the revenue contribution of each age group?
