@@ -190,21 +190,6 @@ python analysis.py
 
 ---
 
-## 📁 Project Structure
-
-```bash
-├── data/
-├── notebooks/
-├── sql_queries/
-├── powerbi_dashboard/
-├── reports/
-├── presentation/
-├── analysis.py
-└── README.md
-```
-
----
-
 ## 🎯 Project Outcome
 
 This project showcases practical skills in:
@@ -220,5 +205,5 @@ This project showcases practical skills in:
 
 ## 👤 Author
 
-Your Name
+Gaurav Diwakar
 Data Analyst | Python | SQL | Power BI
