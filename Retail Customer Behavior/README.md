@@ -176,7 +176,7 @@ pip install pandas numpy matplotlib seaborn sqlalchemy psycopg2
 ### 3. Run Python Analysis
 
 ```bash
-python analysis.py
+python customer_behavior_analysis.ipynb
 ```
 
 ### 4. Connect SQL Database
@@ -186,7 +186,7 @@ python analysis.py
 
 ### 5. Open Power BI Dashboard
 
-* Open `.pbix` file in Power BI Desktop
+* Open `Customer Behavior Analysis Dashboard.pbix` file in Power BI Desktop
 
 ---
 
