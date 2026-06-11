@@ -164,7 +164,7 @@ The Power BI dashboard includes:
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-link>
+git clone https://github.com/gauravDiwakar108/Data-Analysis
 ```
 
 ### 2. Install Required Libraries
